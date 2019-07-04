@@ -1,0 +1,57 @@
+ERROR - 2019-07-04 07:05:54 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:05:54 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:05:56 --> 404 Page Not Found: Product/ProductView
+ERROR - 2019-07-04 07:44:45 --> Severity: Parsing Error --> syntax error, unexpected '}' C:\AppServ\www\Project\inventory\application\models\Model_product.php 57
+ERROR - 2019-07-04 07:44:54 --> Severity: Notice --> Undefined index: item_name C:\AppServ\www\Project\inventory\application\views\Product\Product_list.php 59
+ERROR - 2019-07-04 07:44:54 --> Severity: Notice --> Undefined index: item_description C:\AppServ\www\Project\inventory\application\views\Product\Product_list.php 61
+ERROR - 2019-07-04 07:44:54 --> Severity: Notice --> Undefined index: item_status C:\AppServ\www\Project\inventory\application\views\Product\Product_list.php 62
+ERROR - 2019-07-04 07:44:54 --> Severity: Notice --> Undefined index: item_id C:\AppServ\www\Project\inventory\application\views\Product\Product_list.php 64
+ERROR - 2019-07-04 07:44:54 --> Severity: Notice --> Undefined index: item_id C:\AppServ\www\Project\inventory\application\views\Product\Product_list.php 65
+ERROR - 2019-07-04 07:44:54 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:44:54 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:45:20 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:45:20 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:45:36 --> Severity: Notice --> Undefined index: name C:\AppServ\www\Project\inventory\application\models\Model_product.php 31
+ERROR - 2019-07-04 07:45:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:45:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:46:27 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:46:27 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:46:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:46:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:46:41 --> Severity: Notice --> Undefined variable: val C:\AppServ\www\Project\inventory\application\models\Model_product.php 50
+ERROR - 2019-07-04 07:47:10 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:47:10 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:47:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:47:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:47:52 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:47:52 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:49:07 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:49:07 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:54:28 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:54:28 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:54:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:54:38 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:57:51 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:57:51 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:57:58 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:57:58 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:58:16 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:58:16 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:58:31 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:58:31 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:59:45 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:59:45 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:59:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 07:59:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:00:47 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:00:47 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:29 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:29 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:01:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:02:35 --> 404 Page Not Found: Assets/css
+ERROR - 2019-07-04 08:02:35 --> 404 Page Not Found: Assets/css
