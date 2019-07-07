@@ -206,7 +206,7 @@ class Model_member extends CI_Model{
     }
 
     public function Insert_Member($val){
-        $chk = $this->db->select("member_id")->where(array("member_username" => $val["username"], "member_status" => 1))-limit(1)->get("member")->num_rows();
+        $chk = $this->db->select("member_id")->where(array("member_username" => $val["username"], "member_status" => 1))->limit(1)->get("member")->num_rows();
         if(empty(!$chk)){
             $popup_alert = array(
                 'title' => '<i class="fa fa-floppy-o"></i> Add Fail',
